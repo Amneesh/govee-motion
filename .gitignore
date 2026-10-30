@@ -1,0 +1,5 @@
+.env
+session.json
+tuya-session.json
+__pycache__/
+.DS_Store
